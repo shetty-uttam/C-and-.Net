@@ -1,0 +1,7 @@
+C:\Users\UTTAM SHETTY\source\repos\encaps\encaps\bin\Debug\encaps.exe.config
+C:\Users\UTTAM SHETTY\source\repos\encaps\encaps\bin\Debug\encaps.exe
+C:\Users\UTTAM SHETTY\source\repos\encaps\encaps\bin\Debug\encaps.pdb
+C:\Users\UTTAM SHETTY\source\repos\encaps\encaps\obj\Debug\encaps.csproj.AssemblyReference.cache
+C:\Users\UTTAM SHETTY\source\repos\encaps\encaps\obj\Debug\encaps.csproj.CoreCompileInputs.cache
+C:\Users\UTTAM SHETTY\source\repos\encaps\encaps\obj\Debug\encaps.exe
+C:\Users\UTTAM SHETTY\source\repos\encaps\encaps\obj\Debug\encaps.pdb
